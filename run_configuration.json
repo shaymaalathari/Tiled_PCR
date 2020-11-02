@@ -1,0 +1,21 @@
+{
+  "title": "ISKNV Validation Run",
+  "basecalledPath": "fastq/pass",
+  "samples": [
+    {
+      "name": "ISKNV",
+      "description": "",
+      "barcodes": [ "NB01" ]
+    },
+    {
+      "name": "T7",
+      "description": "",
+      "barcodes": [ "NB02" ]
+    },
+    {
+      "name": "Negative Control",
+      "description": "",
+      "barcodes": [ "NB03" ]
+    }
+  ]
+}
