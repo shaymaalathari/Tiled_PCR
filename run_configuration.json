@@ -5,17 +5,7 @@
     {
       "name": "ISKNV",
       "description": "",
-      "barcodes": [ "NB01" ]
-    },
-    {
-      "name": "T7",
-      "description": "",
-      "barcodes": [ "NB02" ]
-    },
-    {
-      "name": "Negative Control",
-      "description": "",
-      "barcodes": [ "NB03" ]
+      "barcodes": [ "NB07" ]
     }
   ]
 }
