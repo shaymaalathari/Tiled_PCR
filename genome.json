@@ -1,14 +1,13 @@
 {
-	"label": “ISKNV virus (ISKNV)”,
+	"label": "ISKNV virus (ISKNV)",
 	"length": 11362,
 	"genes": {
 			"start": 1,
 			"end": 111362,
 			"strand": 1
-		}
 	},
 	"reference": { 
-		"label": “ISKNV-mandrinfish|2001”,
+		"label": "ISKNV-mandrinfish|2001",
 		"accession": "NC_003494",
 		"sequence": "TAGTGTGCAGAGCATCCATGTTGTCCGGCGCCATTGTCAGGTCTATGAGGCTACTGGTGCCGCCAATGGG
 TGTGACAGGGACATCTGCTTGGTCCACACATGGCTCACAAGGCTGTTGCTGTAACATGATCTTTTAATAC
