@@ -1,11 +1,11 @@
 {
-  "title": "ISKNV Run",
-  "basecalledPath": "/Users/shaymaalathari/rampart/ISKNV_T7_MinION/first_run",
+  "title": "ISKNV Validation Run",
+  "basecalledPath": "/Users/shaymaalathari/ISKNV_T7_MinION/first_run",
   "samples": [
     {
       "name": "ISKNV",
-      "description": "",
-      "barcodes": [ "NB07" ]
+      "description": "Shayma's first run",
+      "barcodes": [ "barcode07" ]
     }
   ]
 }
